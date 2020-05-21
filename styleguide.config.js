@@ -29,7 +29,7 @@ module.exports = {
 	minimize: false,
 	ribbon: {
 		text: '查看源码',
-		url: 'https://coding.jd.com/shichangxue/UIDOC.git'
+		url: 'https://github.com/Charlotte1018/ownUI.git'
 	},
 	version: '1.1.0',
 	webpackConfig: {

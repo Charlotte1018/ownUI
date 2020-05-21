@@ -3,7 +3,7 @@
 How to start locally:
 
 ```
-git clone https://coding.jd.com/shichangxue/UIDOC.git
+git clone https://github.com/Charlotte1018/ownUI.git
 npm install
 npm run start
 ```
